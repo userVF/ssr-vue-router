@@ -1,5 +1,4 @@
 .clinic
 .vscode
 /node_modules
-/build/server/entry-server.js
 /server/logs/app.log
